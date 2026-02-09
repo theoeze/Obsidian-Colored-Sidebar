@@ -15,18 +15,18 @@ customization. Just swap out the color variable names in the prefix groups.
 
 :root {
   /* ================================ Colors ================================ */
-  --red: #e22c3c;                /* Default Prefix: None */
-  --red-orange: #e9404b;         /* Default Prefix: None */
-  --orange: #ee6748;             /* Default Prefix: None */
-  --amber: #fa9f50;              /* Default Prefix: None */
-  --yellow: #ffd85e;             /* Default Prefix: None */
-  --lime: #97e768;               /* Default Prefix: None */
+  --red: #e22c3c;                /* Default Prefix: 08 */
+  --red-orange: #e9404b;         /* Default Prefix: 09 */
+  --orange: #ee6748;             /* Default Prefix: 10 */
+  --amber: #fa9f50;              /* Default Prefix: 11 */
+  --yellow: #ffd85e;             /* Default Prefix: 12 */
+  --lime: #97e768;               /* Default Prefix: 14 */
   --mint: #52eea3;               /* Default Prefix: 00 */
   --cyan: #51e1e9;               /* Default Prefix: 01 */
-  --cool-cyan: #43cfea;          /* Default Prefix: None */
+  --cool-cyan: #43cfea;          /* Default Prefix: 15 */
   --light-blue: #54b6f8;         /* Default Prefix: 02 */
   --blue: #437cf3;               /* Default Prefix: 03 */
-  --blue-violet: #6f51f4;        /* Default Prefix: None */
+  --blue-violet: #6f51f4;        /* Default Prefix: 16 */
   --violet: #9446f8;             /* Default Prefix: 04 */
   --purple: #c952ed;             /* Default Prefix: 05 */
   --magenta: #e54f9b;            /* Default Prefix: 06 */
